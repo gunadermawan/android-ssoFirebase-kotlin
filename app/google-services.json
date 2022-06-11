@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "873074406539",
+    "project_id": "ssofirebase",
+    "storage_bucket": "ssofirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873074406539:android:eb5b348deb1eab3cb1908e",
+        "android_client_info": {
+          "package_name": "com.gunder.ssofirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873074406539-bqi8i51v00qihlodh56t907rdito9bkd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE15e64xcIxPB3sPhEEBsK5Bt6RBbcWww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873074406539-bqi8i51v00qihlodh56t907rdito9bkd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

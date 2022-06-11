@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ssoFirebase</string>
+    <string name="sign_in">Sign In</string>
+    <string name="google_icons">google icons</string>
+    <string name="sign_in_with_google">Masuk dengan akun Google</string>
+    <string name="info_dev">Guna Dermawan - Android Developer</string>
+    <string name="info_app">SSO with Google</string>
+</resources>

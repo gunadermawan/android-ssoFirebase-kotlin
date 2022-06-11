@@ -5,4 +5,6 @@
     <string name="sign_in_with_google">Masuk dengan akun Google</string>
     <string name="info_dev">Guna Dermawan - Android Developer</string>
     <string name="info_app">SSO with Google</string>
+    <string name="logout">Logout</string>
+    <string name="client_id">\"873074406539-bqi8i51v00qihlodh56t907rdito9bkd.apps.googleusercontent.com\"</string>
 </resources>
